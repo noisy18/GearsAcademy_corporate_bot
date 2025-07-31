@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Virtual env
+venv/
+env/
+.venv/
+.env/
+
+# Environment files
+.env
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Test cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# Jupyter
+.ipynb_checkpoints/
+
+# __init__.py generated stubs
+*.pyi
+
+# AI-generated completions
+__results__/
+
+# Optional: if using Docker
+docker-compose.override.yml
+*.db
+
+# Optional: compiled static files
+staticfiles/
